@@ -1,3 +1,3 @@
-# Site feito para o Projeto Vida III.
+# Renascer, construindo um futuro sustentável!
 
-🌱Renascer
+🌱 Projeto feito para a disciplina "Projeto Integrador - Projeto Vida".
